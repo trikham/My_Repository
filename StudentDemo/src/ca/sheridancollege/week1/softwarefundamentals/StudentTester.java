@@ -30,7 +30,7 @@ public class StudentTester {
         {
             System.out.println(StudentLst[i].getName());
         }
-        
+            System.out.println("test fetch");
         }
         
     }
